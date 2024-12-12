@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<profile-integration>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "it.s3k.fedegari.Application",
+            "projectName": "profile-integration",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
